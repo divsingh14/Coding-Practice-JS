@@ -6,3 +6,5 @@ Patterns
 3. Right triangle star pattern
 4. Left triangle star pattern
 5. Downward triangle pattern
+6.
+7.
